@@ -12,9 +12,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sandeep1995/pingo.git"
+    "url": "git+https://github.com/dixonsatit/pingo.git"
   },
-  "author": "Sandeep Acharya",
+  "author": "Sathit Seethaphon",
   "license": "CC0-1.0",
   "devDependencies": {
     "electron": "^3.0.9",
